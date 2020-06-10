@@ -50,7 +50,7 @@ Before attempting to connect to your {{site.data.keyword.Db2_on_Cloud_short}} da
     
     
 
-    <!-- For Legacy plans you can choose to connect with or without SSL. Connection details, such as which port to use and the connection string, depend on whether you use SSL connections. For current plans SSL is the default conection method. -->
+    <!-- For legacy plans you can choose to connect with or without SSL. Connection details, such as which port to use and the connection string, depend on whether you use SSL connections. For current plans SSL is the default conection method. -->
 
     To use SSL connections, you need a CA certificate:
     - If you use the most recent {{site.data.keyword.Db2_on_Cloud_short}} driver package, the certificate file is bundled with the package and is used for connections.
