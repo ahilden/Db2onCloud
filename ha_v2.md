@@ -22,16 +22,16 @@ subcollection: Db2onCloud
 {:pre: .pre}
 {:video: .video}
 
-# High availability (HA) of Db2 on Cloud V2
+# High availability (HA) of Db2 on Cloud Enterprise and Standard Plans
 {: #ha_v2}
 
-{{site.data.keyword.Db2_on_Cloud_short}} V2 HA plans have excellent availability characteristics with a 99.99% SLA.
+{{site.data.keyword.Db2_on_Cloud_short}} Enterprise and Standard HA plans have excellent availability characteristics with a 99.99% SLA.
 {: shortdesc}
 
 ## High availability
 {: #ha_ha}
 
-High availability on {{site.data.keyword.Db2_on_Cloud_short}} V2 is provided by leveraging the support of native Db2 HADR. 
+High availability on {{site.data.keyword.Db2_on_Cloud_short}} Enterprise and Standard plans are provided by leveraging the support of native Db2 HADR. 
 
 - Each HA system consists of 3 nodes located in different independent availability zones.  
 
